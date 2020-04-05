@@ -1,0 +1,20 @@
+{
+  "name": "koala-string-capitalize",
+  "version": "1.0.0",
+  "description": "NPM Package to Capitalize the First Letter of Each Word of a String. For educational Purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koalapvh13/String-Capitalize.git"
+  },
+  "keywords": [],
+  "author": "Matheus Dias Vieira <matheuspvh13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Koalapvh13/String-Capitalize/issues"
+  },
+  "homepage": "https://github.com/Koalapvh13/String-Capitalize#readme"
+}
